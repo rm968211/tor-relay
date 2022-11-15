@@ -1,5 +1,5 @@
 
-#AccountingStart day week month [day] HH:MM
-#AccountingMax XX GBytes
-#RelayBandwidthRate XX KBytes
-#RelayBandwidthBurst XX KBytes
+AccountingStart day 01:00
+AccountingMax 10 GBytes
+RelayBandwidthRate 102400 KBytes
+RelayBandwidthBurst 204800 KBytes
